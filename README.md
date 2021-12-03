@@ -1,1 +1,1 @@
-# Curso-plazir-javascript
+# Curso-plazit-javascript
